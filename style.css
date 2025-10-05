@@ -394,6 +394,7 @@ align-items:center;
   .sections{
 display:block;
 width:220vw;
+background-color:green;
   }
 
   .left-section{
