@@ -12,7 +12,7 @@
 
 .navbar{
     height:100px;
-    width:100%;
+    width:100vw;
     max-width:100vw;
    
    padding:0px 100px;
@@ -64,7 +64,7 @@
 }
 
 .sections{
-    width:100%;
+    width:100vw;
     box-sizing:border-box;
     display:flex;
     height:809px;
@@ -391,16 +391,80 @@ align-items:center;
 }
 
 @media only screen and (max-width: 1000px) {
-  .sections{
-display:block;
-width:220vw;
-background-color:green;
-  }
+.navbar{
+    width:100vw;
+    padding:0px;
+}
 
-  .left-section{
- 
+.inner-navbar{
+    width:90vw;
+}
+.nav-list{
+    width:40vw;
+}
+.company-log{
+    width:20vw;
+}
+.nav-button{
+    width:15vw
 }
 
 
+  .sections{
+display:block;
+width:100vw;
+
+  }
+
+  .left-section{
+    width:90vw;
+ 
+}
+
+.left-section-first{
+    font-size:3rem;
+}
+
+.ellipse-outer{
+    width:80vw;
+    height:80vh;
+
+}
+.ellipse-inner{
+    width:60vw;
+    height:60vh;
+}
+
+.group12{
+    width:100vw;
+    height:100vw;
+}
+.group12 img{
+    width:90vw;
+    height:90vw;
+}
+
+.small-box2{
+    width:50vw;
+    height:50vh;
+}
+.small-box2 img{
+    width:20vw;
+    height:20vh;
+}
+
+.subsequent-section{
+    width:100vw;
+}
+.outer-containers{
+    width:100vw;
+
+}
+
+.box{
+    display:block;
+}
+
+}
 
 
