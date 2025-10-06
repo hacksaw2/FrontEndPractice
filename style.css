@@ -436,6 +436,8 @@ display:flex;
 .ellipse-outer{
     width:80vw;
     height:80vh;
+    display:flex;
+    justify-content:center;
 
 }
 .ellipse-inner{
@@ -446,6 +448,8 @@ display:flex;
 .group12{
     width:100vw;
     height:100vw;
+  
+
     
 }
 .group12 img{
@@ -455,11 +459,12 @@ display:flex;
 
 .small-box1{
     width:50vw;
+    height:15vh;
 
 }
 .small-box1 img{
     width:30vw;
-    height:5vh;
+    height:2vh;
 
 }
 
@@ -468,8 +473,8 @@ display:flex;
     height:15vh;
 }
 .small-box2 img{
-    width:20vw;
-    height:20vh;
+    width:15vw;
+    height:15vh;
 }
 
 .subsequent-section{
