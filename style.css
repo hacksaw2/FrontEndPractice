@@ -400,7 +400,8 @@ align-items:center;
     width:90vw;
 }
 .nav-list{
-    width:40vw;
+    
+    display:none;
 }
 .company-log{
     width:20vw;
@@ -414,6 +415,8 @@ align-items:center;
 display:block;
 width:100vw;
 height:150vh;
+text-align:center;
+
 
 
 
@@ -425,7 +428,10 @@ height:150vh;
 }
 
 .left-section-first{
-    font-size:3rem;
+    font-size:4rem;
+}
+.left-section-second{
+    font-sie:2 rem;
 }
 
 .ellipses{
@@ -434,16 +440,16 @@ display:flex;
 }
 
 .ellipse-outer{
-    width: 75vw;
-        height: 47vh;
+    width: 85vw;
+        height: 50vh;
     display:flex;
     justify-content:center;
     align-items:center;
 
 }
 .ellipse-inner{
-    width:60vw;
-    height:33vh;
+    width:70vw;
+    height:35vh;
     
 }
 
