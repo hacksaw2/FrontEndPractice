@@ -413,6 +413,9 @@ align-items:center;
   .sections{
 display:block;
 width:100vw;
+height:200vh;
+
+
 
   }
 
@@ -423,6 +426,11 @@ width:100vw;
 
 .left-section-first{
     font-size:3rem;
+}
+
+.ellipses{
+display:flex;
+    justify-content:center;
 }
 
 .ellipse-outer{
@@ -438,15 +446,26 @@ width:100vw;
 .group12{
     width:100vw;
     height:100vw;
+    
 }
 .group12 img{
     width:90vw;
     height:90vw;
 }
 
-.small-box2{
+.small-box1{
     width:50vw;
-    height:50vh;
+
+}
+.small-box1 img{
+    width:30vw;
+    height:5vh;
+
+}
+
+.small-box2{
+    width:40vw;
+    height:15vh;
 }
 .small-box2 img{
     width:20vw;
@@ -455,6 +474,7 @@ width:100vw;
 
 .subsequent-section{
     width:100vw;
+    margin-top:110vh;
 }
 .outer-containers{
     width:100vw;
@@ -463,6 +483,10 @@ width:100vw;
 
 .box{
     display:block;
+}
+
+.box1,.box2,.box3,.box4{
+    width:100vw
 }
 
 }
