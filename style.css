@@ -434,8 +434,8 @@ display:flex;
 }
 
 .ellipse-outer{
-    width:80vw;
-    height:80vh;
+    width: 75vw;
+        height: 47vh;
     display:flex;
     justify-content:center;
     align-items:center;
@@ -443,7 +443,8 @@ display:flex;
 }
 .ellipse-inner{
     width:60vw;
-    height:60vh;
+    height:33vh;
+    
 }
 
 .group12{
