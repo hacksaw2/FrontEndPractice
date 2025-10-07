@@ -400,17 +400,20 @@ align-items:center;
 
 .inner-navbar{
     width:90vw;
+    gap:1vw;
 }
 .nav-list{
     
-    width:20vw;
+    width:30vw;
+    font-size:0.5rem;
+    gap:2px;
 }
 .company-logo{
     width:30vw;
     height:8vh;
 }
 .nav-button{
-    width:40vw
+    width:20vw
 }
 
 
