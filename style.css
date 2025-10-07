@@ -423,6 +423,7 @@ height:150vh;
   }
 
   .left-section{
+    height:70vh;
     width:90vw;
     text-align:center;
  
@@ -433,7 +434,7 @@ height:150vh;
 
 }
 .left-section-second{
-    font-sie:2 rem;
+    font-size:1.4rem;
     width:100%;
 text-align:center;
     
@@ -441,6 +442,10 @@ text-align:center;
 .left-section-buttons{
      width:100%;
      justify-content:center;
+}
+
+.right-section{
+    height:105vh;
 }
 
 .ellipses{
@@ -513,6 +518,7 @@ display:flex;
 }
 .frame{
     width:90vw;
+    text-align:center;
 
 }
 .frame img{
@@ -522,6 +528,7 @@ display:flex;
 
 .bottom-para{
     width:90vw;
+    text-align:center
 }
 
 }
