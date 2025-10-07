@@ -405,12 +405,12 @@ align-items:center;
 .nav-list{
     
     width:30vw;
-    font-size:0.5rem;
-    gap:2px;
+    font-size:0.6rem;
+    gap:4px;
 }
 .company-logo{
-    width:30vw;
-    height:8vh;
+    width:20vw;
+    height:6vh;
 }
 .nav-button{
     width:20vw
