@@ -464,6 +464,7 @@ display:flex;
     display:flex;
     justify-content:center;
     align-items:center;
+    margin-top:0px;
 
 }
 .ellipse-inner{
@@ -506,7 +507,7 @@ display:flex;
 
 .subsequent-section{
     width:100vw;
-    margin-top:60vh;
+    margin-top:70vh;
 }
 .outer-containers{
     width:100vw;
