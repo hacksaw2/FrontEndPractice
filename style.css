@@ -430,9 +430,17 @@ height:150vh;
 
 .left-section-first{
     font-size:4rem;
+
 }
 .left-section-second{
     font-sie:2 rem;
+    width:100%;
+text-align:center;
+    
+}
+.left-section-buttons{
+     width:100%;
+     justify-content:center;
 }
 
 .ellipses{
@@ -500,11 +508,18 @@ display:flex;
 }
 
 .box1,.box2,.box3,.box4{
-    width:100vw
+    width:100vw;
+    margin-top:4vh;
 }
 .frame{
     width:90vw;
+
 }
+.frame img{
+    width:60vw;
+    
+}
+
 .bottom-para{
     width:90vw;
 }
