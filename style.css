@@ -432,11 +432,11 @@ min-height:100vh;
 }
 
 .left-section-first{
-    font-size:4rem;
+    font-size:5rem;
 
 }
 .left-section-second{
-    font-size:1.4rem;
+    font-size:2rem;
     width:100%;
 text-align:center;
     
@@ -503,7 +503,6 @@ display:flex;
 
 .subsequent-section{
     width:100vw;
-    margin-top:110vh;
 }
 .outer-containers{
     width:100vw;
