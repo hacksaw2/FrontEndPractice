@@ -393,6 +393,7 @@ align-items:center;
 @media only screen and (max-width: 1000px) {
 .navbar{
     width:100vw;
+    height:10vh;
     padding:0px;
     display:flex;
     justify-content:center;
@@ -400,12 +401,12 @@ align-items:center;
 
 .inner-navbar{
     width:90vw;
-    gap:1vw;
+    gap:3vw;
 }
 .nav-list{
     
-    width:30vw;
-    font-size:0.6rem;
+    width:45vw;
+    font-size:0.7rem;
     gap:4px;
 }
 .company-logo{
@@ -413,7 +414,10 @@ align-items:center;
     height:6vh;
 }
 .nav-button{
-    width:20vw
+    width:21vw;
+    height:4vh;
+    font-size:0.6rem;
+    align-items:center;
 }
 
 
