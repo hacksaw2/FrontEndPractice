@@ -414,7 +414,7 @@ align-items:center;
   .sections{
 display:block;
 width:100vw;
-min-height:110vh;
+min-height:105vh;
 
 
 
@@ -433,7 +433,7 @@ min-height:110vh;
 
 .left-section-first{
     font-size:5rem;
-    height:auto;
+    height:20vh;
 
 
 }
@@ -441,12 +441,12 @@ min-height:110vh;
     font-size:2rem;
     width:100%;
 text-align:center;
-    height:auto;
+    height:20vh;
 }
 .left-section-buttons{
      width:100%;
      justify-content:center;
-     height:auto;
+     height:10vh;
 }
 
 .right-section{
