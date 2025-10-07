@@ -415,7 +415,7 @@ align-items:center;
 display:block;
 width:100vw;
 height:150vh;
-text-align:center;
+
 
 
 
@@ -424,6 +424,7 @@ text-align:center;
 
   .left-section{
     width:90vw;
+    text-align:center;
  
 }
 
@@ -500,6 +501,12 @@ display:flex;
 
 .box1,.box2,.box3,.box4{
     width:100vw
+}
+.frame{
+    width:90vw;
+}
+.bottom-para{
+    width:90vw;
 }
 
 }
