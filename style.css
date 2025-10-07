@@ -425,7 +425,7 @@ min-height:100vh;
   }
 
   .left-section{
-    height:30vh;
+    /* height:30vh; */
     width:90vw;
     text-align:center;
  
@@ -503,6 +503,7 @@ display:flex;
 
 .subsequent-section{
     width:100vw;
+    margin-top:50vh;
 }
 .outer-containers{
     width:100vw;
