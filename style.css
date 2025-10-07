@@ -394,6 +394,8 @@ align-items:center;
 .navbar{
     width:100vw;
     padding:0px;
+    display:flex;
+    justify-content:center;
 }
 
 .inner-navbar{
@@ -447,6 +449,20 @@ text-align:center;
      width:100%;
      justify-content:center;
      height:10vh;
+     font-size:1.4rem;
+}
+
+.button1{
+    width:40vw;
+    height:9vh;
+        font-size:1.2rem;
+
+}
+.button2{
+    width:40vw;
+    height:9vh;
+        font-size:1.2rem;
+
 }
 
 .right-section{
@@ -486,8 +502,8 @@ display:flex;
 }
 
 .small-box1{
-    width:50vw;
-    height:15vh;
+    width:45vw;
+    height:10vh;
 
 }
 .small-box1 img{
@@ -497,8 +513,8 @@ display:flex;
 }
 
 .small-box2{
-    width:40vw;
-    height:15vh;
+    width:37vw;
+    height:10vh;
 }
 .small-box2 img{
     width:15vw;
