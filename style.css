@@ -414,7 +414,7 @@ align-items:center;
   .sections{
 display:block;
 width:100vw;
-min-height:100vh;
+min-height:110vh;
 
 
 
@@ -425,7 +425,7 @@ min-height:100vh;
   }
 
   .left-section{
-    height:40vh;
+    height:50vh;
     width:90vw;
     text-align:center;
  
