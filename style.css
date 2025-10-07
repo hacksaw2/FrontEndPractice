@@ -425,7 +425,7 @@ min-height:100vh;
   }
 
   .left-section{
-    /* height:30vh; */
+    height:40vh;
     width:90vw;
     text-align:center;
  
@@ -433,17 +433,20 @@ min-height:100vh;
 
 .left-section-first{
     font-size:5rem;
+    height:auto;
+
 
 }
 .left-section-second{
     font-size:2rem;
     width:100%;
 text-align:center;
-    
+    height:auto;
 }
 .left-section-buttons{
      width:100%;
      justify-content:center;
+     height:auto;
 }
 
 .right-section{
@@ -503,7 +506,7 @@ display:flex;
 
 .subsequent-section{
     width:100vw;
-    margin-top:50vh;
+    margin-top:60vh;
 }
 .outer-containers{
     width:100vw;
